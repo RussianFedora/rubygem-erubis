@@ -8,7 +8,7 @@
 Summary: A fast and extensible eRuby implementation
 Name: rubygem-%{gemname}
 Version: 2.7.0
-Release: 1%{?dist}
+Release: 2%{?dist}
 Group: Development/Languages
 License: MIT
 URL: http://www.kuwata-lab.com/erubis/
